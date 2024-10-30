@@ -1,5 +1,5 @@
 # Hey, I'm crosslite 👋
-A system programmer. I love Unix.
+I love Unix.
 
 ## Here are my stats 🚀
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crosslite)](https://github.com/anuraghazra/github-readme-stats)
